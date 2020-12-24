@@ -1,0 +1,17 @@
+header {
+    border: 1px solid red;
+}
+main {
+    border: 1px solid green;
+}
+#quizdetail {
+    border: 1px solid #fff;
+    width: 50%;
+    margin: 0 auto;
+}
+.page {
+    display: none;
+}
+#page1 {
+    display: block;
+}
