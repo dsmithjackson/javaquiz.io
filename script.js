@@ -98,5 +98,4 @@ function answerQuestion(question, answer){
     }
     document.getElementById(`question-${question}`).style.display = 'none';
     document.getElementById(`question-${question + 1}`).style.display = 'block';
-
 }
