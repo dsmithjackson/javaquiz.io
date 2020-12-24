@@ -15,3 +15,11 @@ main {
 #page1 {
     display: block;
 }
+
+.question {
+    display: none;
+}
+
+#question-0{
+    display: block;
+}
