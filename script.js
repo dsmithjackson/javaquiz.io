@@ -92,6 +92,7 @@ function answerQuestion(question, answer){
         
         document.getElementById('lastAnswer').innerHTML = "That was right!";
     } else {
+        // if the answer isn't correct
         console.log('Boooo wrong');
         document.getElementById('lastAnswer').innerHTML = "That was wrong!";
         timer = timer - 15;
